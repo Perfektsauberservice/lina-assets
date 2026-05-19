@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-05-19T09:16:42.062Z",
+  "anchor_ref": "https://v3b.fal.media/files/b/0a9ab178/PqwIF0-uOeGGbXVFOLf8E_f3de97983439442b918de014c9f72fe9.jpg",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "count": 6,
+  "images": [
+    {
+      "id": "01_space_buns_pastel_pink",
+      "label": "Două cocuri sus (space buns) + păr roz pastel + crop top oversized lavender",
+      "prompt": "30-year-old German woman, soft blue-grey eyes, light natural freckles on cheeks and nose bridge, subtle nude makeup, gentle warm smile, photorealistic skin texture with visible pores, no airbrushing, hair styled in two high space buns on top of head, pastel pink hair color with subtle lavender undertones, wisps framing face, wearing oversized lavender cotton crop sweater, playful youthful styling, minimalist neutral background, soft beige and off-white tones, slight bokeh, shot on Sony A7IV 85mm f/1.8, soft natural daylight, editorial beauty photography, color graded warm tones, aspect ratio 9:16, sharp focus on face",
+      "url": "https://v3b.fal.media/files/b/0a9ad10c/xPbc_869WMRTm8nJb7-h3_cdc0e2ffac6e462b9025cf838500fff5.png",
+      "local": "C:\\tmp\\ai-persona-lina\\hair-variants\\01_space_buns_pastel_pink.jpg",
+      "size_kb": "10"
+    },
+    {
+      "id": "02_sleek_ponytail_dark_caramel",
+      "label": "Sleek high ponytail + caramel închis + black turtleneck",
+      "prompt": "30-year-old German woman, soft blue-grey eyes, light natural freckles on cheeks and nose bridge, subtle nude makeup, gentle warm smile, photorealistic skin texture with visible pores, no airbrushing, sleek high ponytail pulled tight at crown, dark caramel brown hair with subtle highlights, smooth glossy finish, wearing fitted black ribbed turtleneck sweater, sophisticated minimalist styling, minimalist neutral background, soft beige and off-white tones, slight bokeh, shot on Sony A7IV 85mm f/1.8, soft natural daylight, editorial beauty photography, color graded warm tones, aspect ratio 9:16, sharp focus on face",
+      "url": "https://v3b.fal.media/files/b/0a9ad10d/MeyyrEcecjRA_jUIl0QaB_b14a949de7814ffb93c4e0f3c3d6c9da.jpg",
+      "local": "C:\\tmp\\ai-persona-lina\\hair-variants\\02_sleek_ponytail_dark_caramel.jpg",
+      "size_kb": "568"
+    },
+    {
+      "id": "03_beach_waves_honey_blonde",
+      "label": "Beach waves lungi + honey blonde + rochie ivory linen",
+      "prompt": "30-year-old German woman, soft blue-grey eyes, light natural freckles on cheeks and nose bridge, subtle nude makeup, gentle warm smile, photorealistic skin texture with visible pores, no airbrushing, long loose beach waves falling past shoulders, honey blonde hair color with sun-kissed highlights, natural tousled texture, wearing flowing ivory white linen midi dress with thin straps, summer effortless styling, minimalist neutral background, soft beige and off-white tones, slight bokeh, shot on Sony A7IV 85mm f/1.8, soft natural daylight, editorial beauty photography, color graded warm tones, aspect ratio 9:16, sharp focus on face",
+      "url": "https://v3b.fal.media/files/b/0a9ad10e/ERDNN_BzPYVBk2AMTTVr7_04d75ca1d23b4b1b937549db6f58af9d.jpg",
+      "local": "C:\\tmp\\ai-persona-lina\\hair-variants\\03_beach_waves_honey_blonde.jpg",
+      "size_kb": "970"
+    },
+    {
+      "id": "04_low_chignon_platinum",
+      "label": "Low messy chignon + platinum blonde rece + blazer beige",
+      "prompt": "30-year-old German woman, soft blue-grey eyes, light natural freckles on cheeks and nose bridge, subtle nude makeup, gentle warm smile, photorealistic skin texture with visible pores, no airbrushing, low messy chignon bun at nape of neck with face-framing strands, cool platinum ashy blonde hair color, soft fly-aways, wearing tailored beige wool blazer over white silk camisole, elegant professional styling, minimalist neutral background, soft beige and off-white tones, slight bokeh, shot on Sony A7IV 85mm f/1.8, soft natural daylight, editorial beauty photography, color graded warm tones, aspect ratio 9:16, sharp focus on face",
+      "url": "https://v3b.fal.media/files/b/0a9ad110/pY8xODP4NKRaMBbiFXosq_d5de40b6da0c4e6681ce45ff45c273fb.jpg",
+      "local": "C:\\tmp\\ai-persona-lina\\hair-variants\\04_low_chignon_platinum.jpg",
+      "size_kb": "1048"
+    },
+    {
+      "id": "05_dutch_braids_copper_red",
+      "label": "Două dutch braids laterale + copper red + cardigan olive knit",
+      "prompt": "30-year-old German woman, soft blue-grey eyes, light natural freckles on cheeks and nose bridge, subtle nude makeup, gentle warm smile, photorealistic skin texture with visible pores, no airbrushing, two Dutch braids on either side of head ending below shoulders, vibrant copper auburn red hair color with natural depth, slight loose strands at hairline, wearing chunky olive green knit cardigan over cream t-shirt, cozy autumn cottagecore styling, minimalist neutral background, soft beige and off-white tones, slight bokeh, shot on Sony A7IV 85mm f/1.8, soft natural daylight, editorial beauty photography, color graded warm tones, aspect ratio 9:16, sharp focus on face",
+      "url": "https://v3b.fal.media/files/b/0a9ad111/4OBIVSuUFB7A5SbHruyBP_c327094fbaf34680b1d0d6ab8f24c08a.jpg",
+      "local": "C:\\tmp\\ai-persona-lina\\hair-variants\\05_dutch_braids_copper_red.jpg",
+      "size_kb": "957"
+    },
+    {
+      "id": "06_wet_look_slick_jet_black",
+      "label": "Wet-look slicked back ponytail + jet black + bluză satin ivory",
+      "prompt": "30-year-old German woman, soft blue-grey eyes, light natural freckles on cheeks and nose bridge, subtle nude makeup, gentle warm smile, photorealistic skin texture with visible pores, no airbrushing, wet-look slicked back low ponytail, jet black hair color with high shine glossy finish, defined hairline, wearing ivory silk satin blouse with soft draping neckline, editorial high-fashion styling, minimalist neutral background, soft beige and off-white tones, slight bokeh, shot on Sony A7IV 85mm f/1.8, soft natural daylight, editorial beauty photography, color graded warm tones, aspect ratio 9:16, sharp focus on face",
+      "url": "https://v3b.fal.media/files/b/0a9ad112/zEp6iYz_8lXkKjxM5bn4o_f19308550538450e87c82537eb2d12ee.jpg",
+      "local": "C:\\tmp\\ai-persona-lina\\hair-variants\\06_wet_look_slick_jet_black.jpg",
+      "size_kb": "611"
+    }
+  ]
+}
